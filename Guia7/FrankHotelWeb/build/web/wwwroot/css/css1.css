@@ -1,0 +1,74 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 16 sept 2023, 14:55:35
+    Author     : OA
+*/
+
+body {
+    background-color: #1e1e1e; /* Color de fondo oscuro */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.mensaje {
+    color: green; /* Cambia el color del texto del mensaje */
+    font-weight: bold; /* Hace que el mensaje sea más visible */
+}
+
+.container {
+    background-color: #333; /* Color de fondo del contenedor */
+    border-radius: 5px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* Sombra suave */
+}
+
+.form {
+    text-align: center;
+}
+
+.form h1 {
+    color: #fff; /* Color del texto */
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #444; /* Color de fondo del campo de entrada */
+    color: #fff;
+}
+
+.form-group button {
+    width: 100%;
+    padding: 10px;
+    background-color: #f05654; /* Color del botón */
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.form-group button:hover {
+    background-color: #e74c4a; /* Color del botón al pasar el mouse */
+}
