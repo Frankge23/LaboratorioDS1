@@ -8,7 +8,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css
 */
 
 body {
-    background-color: #1e1e1e; /* Color de fondo oscuro */
+    background-color: #1e1e1e; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,16 +17,16 @@ body {
 }
 
 .mensaje {
-    color: green; /* Cambia el color del texto del mensaje */
-    font-weight: bold; /* Hace que el mensaje sea más visible */
+    color: green; 
+    font-weight: bold; 
 }
 
 .container {
-    background-color: #333; /* Color de fondo del contenedor */
+    background-color: #333; 
     border-radius: 5px;
     padding: 20px;
     width: 300px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* Sombra suave */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); 
 }
 
 .form {
@@ -34,7 +34,7 @@ body {
 }
 
 .form h1 {
-    color: #fff; /* Color del texto */
+    color: #fff;
     font-size: 24px;
     margin-bottom: 20px;
 }
@@ -54,14 +54,14 @@ body {
     padding: 10px;
     border: none;
     border-radius: 3px;
-    background-color: #444; /* Color de fondo del campo de entrada */
+    background-color: #444; 
     color: #fff;
 }
 
 .form-group button {
     width: 100%;
     padding: 10px;
-    background-color: #f05654; /* Color del botón */
+    background-color: #f05654; 
     color: #fff;
     border: none;
     border-radius: 3px;
@@ -70,5 +70,5 @@ body {
 }
 
 .form-group button:hover {
-    background-color: #e74c4a; /* Color del botón al pasar el mouse */
+    background-color: #e74c4a; 
 }

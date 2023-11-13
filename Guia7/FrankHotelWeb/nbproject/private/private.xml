@@ -7,11 +7,6 @@
             <file>file:/C:/Users/OA/Documents/NetBeansProjects/FrankHotelWeb/web/index.html</file>
             <file>file:/C:/Users/OA/Documents/NetBeansProjects/FrankHotelWeb/web/RegistrarCliente.jsp</file>
         </group>
-        <group name="AutomotoresShelby">
-            <file>file:/C:/Users/OA/Documents/NetBeansProjects/FrankHotelWeb/web/index.html</file>
-            <file>file:/C:/Users/OA/Documents/NetBeansProjects/FrankHotelWeb/src/java/Servlet/RegistrarClienteServlet.java</file>
-            <file>file:/C:/Users/OA/Documents/NetBeansProjects/FrankHotelWeb/web/wwwroot/css/css1.css</file>
-            <file>file:/C:/Users/OA/Documents/NetBeansProjects/FrankHotelWeb/web/Views/Registrar/RegistrarCliente.jsp</file>
-        </group>
+        <group name="AutomotoresShelby"/>
     </open-files>
 </project-private>
